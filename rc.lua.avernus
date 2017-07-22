@@ -1,9 +1,6 @@
-
 --[[
-                                             
-     Powerarrow Darker Awesome WM config 2.0 
-     github.com/copycat-killer               
-                                             
+    Powerarrow Darker Awesome WM config 2.0
+    github.com/copycat-killer
 --]]
 
 -- {{{ Required libraries
@@ -66,7 +63,7 @@ local editor     = os.getenv("EDITOR") or "nano" or "vi"
 
 -- user defined
 local browser    = "firefox"
-local gui_editor = "gvim"
+local gui_editor = "ec"
 local graphics   = "gimp"
 local tagnames   = { "1", "2", "3", "4", "5" }
 
