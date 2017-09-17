@@ -1,15 +1,15 @@
-
 --[[
-                           
- Vertex Awesome WM theme   
- github.com/copycat-killer 
-                           
+
+ Vertex Awesome WM theme
+ github.com/copycat-killer
+
 --]]
 
-local gears        = require("gears")
-local lain         = require("lain")
-local awful        = require("awful")
-local wibox        = require("wibox")
+local gears = require("gears")
+local lain  = require("lain")
+local awful = require("awful")
+local wibox = require("wibox")
+
 local math, string, tag, tonumber, type, os = math, string, tag, tonumber, type, os
 
 local theme                                     = {}
